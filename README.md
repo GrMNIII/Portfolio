@@ -42,15 +42,8 @@ npm run dev
 http://localhost:3000
 ```
 
-# Visualizalo en tu navegador!
-```bash
-https://portfolio-gamma-green-18.vercel.app/
-```
-
-- [Next.js Documentation](https://nextjs.org/docs) - conoce acerca Next.js.
-- [Learn Next.js](https://nextjs.org/learn) - un tutorial de Next.js.
-
-Echale un vistazo al repositorio de Vercel [the Next.js GitHub repository](https://github.com/vercel/next.js)
+## Visualizalo en tu navegador!
+[Vercel Link](https://portfolio-gamma-green-18.vercel.app/) - Interactúa con el portafolio
 
 ## Integrante:
 - Germán Morales Navia 21.156.950-6 german.morales01@alumnos.ucn.cl
