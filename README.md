@@ -42,6 +42,11 @@ npm run dev
 http://localhost:3000
 ```
 
+# Visualizalo en tu navegador!
+```bash
+https://portfolio-gamma-green-18.vercel.app/
+```
+
 - [Next.js Documentation](https://nextjs.org/docs) - conoce acerca Next.js.
 - [Learn Next.js](https://nextjs.org/learn) - un tutorial de Next.js.
 
